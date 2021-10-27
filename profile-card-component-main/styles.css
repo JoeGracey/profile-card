@@ -48,6 +48,44 @@ html {
   z-index: -1;
 }
 
+.bottom {
+  text-align: center;
+}
+
+.followers {
+  float: left;
+  line-height: .1;
+  margin-left: 50px;
+}
+
+.likes {
+  float: left;
+  line-height: .1;
+  margin-left: 50px;
+}
+
+.photos {
+  float: left;
+  line-height: .1;
+  margin-left: 50px;
+}
+
+.london {
+  font-size: small;
+}
+
+.one-point-four,
+.eight-zero-three,
+.eighty {
+  color: black;
+}
+
+.f,
+.l,
+.p {
+  font-size: x-small;
+}
+
 span {
   color: #999;
   margin-left: 5px;
