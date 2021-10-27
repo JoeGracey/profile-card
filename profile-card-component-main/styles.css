@@ -35,14 +35,10 @@ html {
  z-index: 0;
 }
 
-
-
 .victor-crest {
-
-}
-
-.twenty-six {
-  float: right;
+  text-align: center;
+  margin-top: 60px;
+  font-family: sans-serif;
 }
 
 .pattern-bottom {
@@ -50,4 +46,20 @@ html {
   bottom: -500px;
   left: 550px;
   z-index: -1;
+}
+
+span {
+  color: #999;
+  margin-left: 5px;
+}
+
+hr {
+  border: 1px solid #bcbcbc;
+
+}
+
+p {
+  text-align: center;
+  font-family: sans-serif;
+  color: #999;
 }
